@@ -8,7 +8,9 @@
 // @match        https://www.myanonamouse.net/snatch_summary.php
 // @version 0.0.2
 // @license MIT
-// @homepage     https://www.myanonamouse.net
+// @homepage     https://github.com/TheRealHumdinger/MAMBookmarkSnatched
+// @downloadURL https://github.com/TheRealHumdinger/MAMBookmarkSnatched/raw/main/BookmarkSnatched.user.js
+// @updateURL https://github.com/TheRealHumdinger/MAMBookmarkSnatched/raw/main/BookmarkSnatched.user.js
 // ==/UserScript==
 // Icon Image by https://www.freepik.com/free-vector/flat-mice-collection-with-different-poses_1593656.htm#query=cute%20mouse&position=0&from_view=keyword&track=ais
 
