@@ -9,8 +9,8 @@
 // @version 0.0.2
 // @license MIT
 // @homepage     https://github.com/TheRealHumdinger/MAMBookmarkSnatched
-// @downloadURL https://github.com/TheRealHumdinger/MAMBookmarkSnatched/raw/main/BookmarkSnatched.user.js
-// @updateURL https://github.com/TheRealHumdinger/MAMBookmarkSnatched/raw/main/BookmarkSnatched.user.js
+// @downloadURL https://raw.githubusercontent.com/TheRealHumdinger/MAMBookmarkSnatched/main/BookmarkSnatch.user.js
+// @updateURL https://raw.githubusercontent.com/TheRealHumdinger/MAMBookmarkSnatched/main/BookmarkSnatch.user.js
 // ==/UserScript==
 // Icon Image by https://www.freepik.com/free-vector/flat-mice-collection-with-different-poses_1593656.htm#query=cute%20mouse&position=0&from_view=keyword&track=ais
 
